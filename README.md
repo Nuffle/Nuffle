@@ -12,12 +12,12 @@
   <img align="center" alt="Nuffle-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Nuffle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nuffle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://media.tenor.com/FfYjdjpr3bgAAAAC/homer-the-simpsons.gif"><img align="right" height="150" width="250" alt="GIF" src="https://media.tenor.com/FfYjdjpr3bgAAAAC/homer-the-simpsons.gif" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a>
 </div>
   
 ##
-
-   <a target="_blank" rel="noopener noreferrer" href="https://media.tenor.com/FfYjdjpr3bgAAAAC/homer-the-simpsons.gif"><img align="right" height="150" width="250" alt="GIF" src="https://media.tenor.com/FfYjdjpr3bgAAAAC/homer-the-simpsons.gif" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"></a>
-  
+ 
 <div> 
 
   <a href="https://www.instagram.com/arthurffs.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
