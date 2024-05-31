@@ -1,5 +1,5 @@
 
-# Olá! Me chamo Arthur Fortunato 👋
+# Hi! I'm Arthur 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euarthur.ffs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fortunato-b1aa8b251/)
@@ -9,7 +9,7 @@
 ![Nuffle GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuffle&show_icons=true&theme=tokyonight)
 
 
-## Tecnologias que eu uso!
+## I use!
 
 <div styles="display: inline_block"><br/>
    <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
