@@ -14,5 +14,3 @@
 <div styles="display: inline_block"><br/>
    <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <div/><br/>
-
-**Resolvendo problemas do mundo real através de linhas de código.**
