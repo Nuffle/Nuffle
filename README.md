@@ -12,5 +12,5 @@
 ## I use!
 
 <div styles="display: inline_block"><br/>
-   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+   <img align="center" alt="python" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)"/>
 <div/><br/>
