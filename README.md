@@ -6,11 +6,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.fortunato010@gmail.com)
 
 ![Nuffle GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuffle&show_icons=true&theme=tokyonight)
-
-
-## I use!
-
-<div styles="display: inline_block"><br/>
-   <img align="center" alt="cpp" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-   <img align="center" alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)"/>
-<div/><br/>
